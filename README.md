@@ -1,7 +1,7 @@
 # BIT_DM_homework4
 DM homework for week 4
 
-##homework requirement：
+## homework requirement：
 1. 数据摘要和可视化
 - 数据摘要
  >标称属性，给出每个可能取值的频数
